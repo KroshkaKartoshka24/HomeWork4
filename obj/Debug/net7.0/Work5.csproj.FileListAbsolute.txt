@@ -1,0 +1,14 @@
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.AssemblyInfoInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.AssemblyInfo.cs
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.csproj.CoreCompileInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/bin/Debug/net7.0/Work5
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/bin/Debug/net7.0/Work5.deps.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/bin/Debug/net7.0/Work5.runtimeconfig.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/bin/Debug/net7.0/Work5.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/bin/Debug/net7.0/Work5.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/refint/Work5.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/Work5.genruntimeconfig.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work5/obj/Debug/net7.0/ref/Work5.dll
